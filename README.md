@@ -1,1 +1,1 @@
-# -IKEA-Sales-and-Performance-Dashboard
+# IKEA-Sales-and-Performance-Dashboard
